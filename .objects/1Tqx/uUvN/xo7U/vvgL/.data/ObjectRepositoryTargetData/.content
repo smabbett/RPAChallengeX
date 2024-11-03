@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="m60Eam12ikOAgpUcyRO54g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="6cc386e0-fec2-4388-9be7-c0297c4572a9" CvTextArea="1003, 677, 1338, 38" CvType="AnyWordGroup" DesignTimeRectangle="747, 667, 1852, 60" DesignTimeScaleFactor="2" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='message2' tag='DIV' type='' /&gt;" Guid="e7e65894-4902-49d1-b5cf-733f2f671d2a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6cc386e0-fec2-4388-9be7-c0297c4572a9" CvTextArea="1369, 577, 608, 82" CvTextArgument="Congratulations!" CvType="Text" DesignTimeRectangle="747, 559, 1852, 108" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Congratulations!' tag='DIV' type='' class='message1 teal-text text-darken-2' check:innerText='Congratulations!' /&gt;" Guid="15f9ffae-f7e7-4613-8919-103395d7b3ac" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f1122f0ad5b5ec11b2a9bf3c66992feb.png" xmlns="">0C74-zGGQckKJ4eBvwTszAw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
